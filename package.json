@@ -1,0 +1,24 @@
+{
+  "name": "vote-infer",
+  "version": "1.0.0",
+  "description": "Infer actual number of votes based on the percentage of each voting options.",
+  "keywords": [
+    "voting",
+    "infer",
+    "cli"
+  ],
+  "author": "Beeno Tung <aabbcc1241@yahoo.com.hk> (https://beeno-tung.surge.sh)",
+  "license": "BSD-2-Clause",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/beenotung/vote-infer.git"
+  },
+  "homepage": "https://github.com/beenotung/vote-infer#readme",
+  "bugs": {
+    "url": "https://github.com/beenotung/vote-infer/issues"
+  },
+  "main": "calc.js",
+  "bin": {
+    "vote-infer": "cli.js"
+  }
+}
